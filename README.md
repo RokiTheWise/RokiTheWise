@@ -1,4 +1,4 @@
-### Hello World! I'm DJ Enriquez! 👋
+### Hello World! I'm Dexter Jethro Enriquez! 👋
 
 I'm a Computer Science student at **Ateneo de Manila University**. I love bridging the gap between complex algorithms and beautiful web experiences.
 
