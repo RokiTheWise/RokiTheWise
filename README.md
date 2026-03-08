@@ -2,7 +2,6 @@
 
 I'm a Computer Science student at **Ateneo de Manila University**. I love bridging the gap between complex algorithms and beautiful web experiences.
 
-- 🔭 **I’m currently working on:** An alarm system called *Wakey Wakey*.
 - 🌱 **I’m currently learning:** Backend programming, advanced Next.js patterns, and French (En train d'apprendre le français! 🇫🇷).
 - 👯 **I’m looking to collaborate on:** Web development and anything under the sun!
 - ⚡ **Fun fact:** I like turtles 🐢.
