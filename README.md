@@ -15,4 +15,4 @@ I'm a Computer Science student at **Ateneo de Manila University**. I love bridgi
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[🌐 Visit my Portfolio](https://djenriquez.dev) | [👔 Connect with me on LinkedIn](https://www.linkedin.com/in/dexter-jethro-enriquez-982a062ab/)
+[🌐 Visit my Portfolio](https://djenriquez.dev) | [👔 Connect with me on LinkedIn](https://www.linkedin.com/in/dexter-jethro-enriquez/)
