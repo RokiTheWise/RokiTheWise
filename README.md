@@ -6,6 +6,16 @@ I'm a Computer Science student at **Ateneo de Manila University**. I love bridgi
 - 👯 **I’m looking to collaborate on:** Web development and anything under the sun!
 - ⚡ **Fun fact:** I like turtles 🐢.
 
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight" alt="Dexter's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,6 +27,7 @@ I'm a Computer Science student at **Ateneo de Manila University**. I love bridgi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 [🌐 Visit my Portfolio](https://djenriquez.dev) | [👔 Connect with me on LinkedIn](https://www.linkedin.com/in/dexter-jethro-enriquez/)
