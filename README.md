@@ -10,8 +10,9 @@ I'm a Computer Science student at **Ateneo de Manila University**. I love bridgi
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=RokiTheWise&show_icons=true&theme=tokyonight" alt="Dexter's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokiTheWise&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=RokiTheWise&show_icons=true&theme=dark" alt="DJ's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokiTheWise&layout=compact&theme=dark" alt="Top Langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiTheWise&theme=dark" alt="Streak" />
 </p>
 
 ---
