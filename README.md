@@ -34,11 +34,7 @@ whether that's for local communities, real businesses, or hard problems worth so
 
 ### 📈 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokiTheWise&layout=compact&theme=dark" alt="Top Langs" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RokiTheWise&theme=dark" alt="Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RokiTheWise&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 ---
 
