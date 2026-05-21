@@ -36,6 +36,8 @@ whether that's for local communities, real businesses, or hard problems worth so
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RokiTheWise&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RokiTheWise&layout=compact&theme=github_dark_blue&hide_border=true&card_width=500&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 - 🌱 Currently learning: advanced Next.js patterns, backend architecture, and French *(En train d'apprendre le français! 🇫🇷)*
