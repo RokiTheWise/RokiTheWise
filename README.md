@@ -38,6 +38,6 @@ whether that's for local communities, real businesses, or hard problems worth so
 
 ---
 
-- 🌱 Currently learning: advanced Next.js patterns, backend architecture, and French *(En train d'apprendre le français! 🇫🇷)*
+- 🌱 Currently learning: data visualization, entrepreneurship, and French *(En train d'apprendre le français! 🇫🇷)*
 - 👯 Open to collaborating on: projects with real-world impact — community tools, client work, or anything technically interesting
 - ⚡ Fun fact: I like turtles 🐢
