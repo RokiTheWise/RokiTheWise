@@ -32,12 +32,6 @@ whether that's for local communities, real businesses, or hard problems worth so
 
 ---
 
-### 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RokiTheWise&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
----
-
-- 🌱 Currently learning: data visualization, entrepreneurship, and French *(En train d'apprendre le français! 🇫🇷)*
+- 🌱 Currently learning: machine learning and entrepreneurship
 - 👯 Open to collaborating on: projects with real-world impact — community tools, client work, or anything technically interesting
 - ⚡ Fun fact: I like turtles 🐢
